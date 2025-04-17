@@ -26,11 +26,11 @@ fields_of_interests:
     "Conversational AI",
     "Data Science",
     "Backend Development",
-    "DevOps",
+    "DevOps"
   ]
 technical_background:
   [
-    "AI & Machine Learning Engineer"
+    "AI & Machine Learning Engineer",
     "Conversational AI Analyst"
   ]
   
@@ -71,9 +71,4 @@ currently_learning: ["Terraform", "AWS"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" alt="Terraform" width="45" height="45"/>
-
-
-
-
-
 </p>
